@@ -1,0 +1,31 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.hansail001/sitekrs",
+  "title": "SiteKrs",
+  "description": "List SiteKrs templates and get editor links; import your own source on the SiteKrs homepage.",
+  "version": "4.0.0",
+  "websiteUrl": "https://sitekrs.ai-krs.com",
+  "repository": {
+    "url": "https://github.com/hansail001/sitekrs-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/hansail001/sitekrs-mcp/main/logo-400.jpg",
+      "mimeType": "image/jpeg",
+      "sizes": ["400x400"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://sitekrs.ai-krs.com/api/mcp"
+    }
+  ],
+  "_meta": {
+    "io.modelcontextprotocol.registry/publisher-provided": {
+      "descriptionZh": "SiteKrs — 从 0 到静态网站，零门槛操作、节省90%时间、一次性付费、永久免维护。SiteKrs MCP 只展示模板并返回编辑器链接，自有源码可在SiteKrs首页「导入模版」用文件夹/ZIP 手动导入。",
+      "contact": "support@ai-krs.com"
+    }
+  }
+}
