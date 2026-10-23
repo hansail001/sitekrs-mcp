@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sitekrs",
+  "description": "List SiteKrs static-site templates and open the visual editor for a chosen template.",
+  "version": "4.0.0",
+  "author": {
+    "name": "SiteKrs",
+    "email": "support@ai-krs.com"
+  },
+  "homepage": "https://sitekrs.ai-krs.com",
+  "repository": "https://github.com/hansail001/sitekrs-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "static-site", "templates", "website-builder", "sitekrs"]
+}

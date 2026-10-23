@@ -1,0 +1,15 @@
+{
+  "name": "sitekrs",
+  "version": "4.0.0",
+  "description": "List SiteKrs static-site templates and open the visual editor for a chosen template.",
+  "author": {
+    "name": "SiteKrs",
+    "email": "support@ai-krs.com"
+  },
+  "homepage": "https://sitekrs.ai-krs.com",
+  "repository": "https://github.com/hansail001/sitekrs-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "static-site", "templates", "website-builder", "sitekrs"],
+  "logo": "logo-400.png",
+  "mcpServers": "./mcp.json"
+}
